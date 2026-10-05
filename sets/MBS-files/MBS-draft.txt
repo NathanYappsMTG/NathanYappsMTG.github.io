@@ -3286,16 +3286,6 @@
 	8 Trap Hole
 	8 Expedition Map
 	8 Promising Vein
-	8 Shimmering River
-	8 Crystalline Growths
-	8 Chittering Hive
-	8 Contested Territory
-	8 Cobbled Settlement
-	8 Shimmering Geode
-	8 Festering Roots
-	8 Lattice Pools
-	8 Arcane Bastion
-	8 Common Path
 [common | masterpiece(1)]
 	8 Expedition Enhancer
 	8 Sharddust Expert
@@ -3378,16 +3368,6 @@
 	8 Trap Hole
 	8 Expedition Map
 	8 Promising Vein
-	8 Shimmering River
-	8 Crystalline Growths
-	8 Chittering Hive
-	8 Contested Territory
-	8 Cobbled Settlement
-	8 Shimmering Geode
-	8 Festering Roots
-	8 Lattice Pools
-	8 Arcane Bastion
-	8 Common Path
 [foil(1)]
 	12 Expedition Enhancer
 	12 Sharddust Expert
@@ -3650,16 +3630,6 @@
 	2 Forever Autumn
 	6 Tophia, Solemn Spiritspeaker
 	2 Florg, Erratic Node
-	12 Shimmering River
-	12 Crystalline Growths
-	12 Chittering Hive
-	12 Contested Territory
-	12 Cobbled Settlement
-	12 Shimmering Geode
-	12 Festering Roots
-	12 Lattice Pools
-	12 Arcane Bastion
-	12 Common Path
 [wildcard(1)]
 	6 Expedition Enhancer
 	6 Sharddust Expert
@@ -3922,6 +3892,7 @@
 	7 Forever Autumn
 	15 Tophia, Solemn Spiritspeaker
 	7 Florg, Erratic Node
+[land(1)]
 	6 Shimmering River
 	6 Crystalline Growths
 	6 Chittering Hive
