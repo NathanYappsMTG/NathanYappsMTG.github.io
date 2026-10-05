@@ -5,7 +5,7 @@
 			<name>MBS</name>
 			<longname>Mordelva: Below the Surface</longname>
 			<settype>Custom</settype>
-			<releasedate>2026-10-04</releasedate>
+			<releasedate>2026-10-05</releasedate>
 		</set>
 	</sets>
 	<cards>
@@ -4286,7 +4286,7 @@ Abilities you activate that aren&apos;t mana abilities cost {1} less to activate
 		<card>
 			<name>Paradox of Power</name>
 			<text>Enchant player
-When this Aura enters, it gains hexproof until your next turn.
+When this Aura enters, it gains shroud until your next turn. (It can&apos;t be the target of spells or abilities.)
 Spells enchanted player casts cost {1} less to cast.
 At the beginning of enchanted player&apos;s end step, that player draws a card.
 When this Aura leaves the battlefield, enchanted player sacrifices all nonland permanents they control.</text>

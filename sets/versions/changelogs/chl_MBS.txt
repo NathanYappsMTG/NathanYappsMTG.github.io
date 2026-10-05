@@ -1,4 +1,22 @@
-﻿VERSION 1 CHANGELOG
+﻿VERSION 2 CHANGELOG
+====================
+
+
+
+Paradox of Power
+rules_text: Enchant player
+When this Aura enters, it gains hexproof until your next turn.
+Spells enchanted player casts cost {1} less to cast.
+At the beginning of enchanted player's end step, that player draws a card.
+When this Aura leaves the battlefield, enchanted player sacrifices all nonland permanents they control. => Enchant player
+When this Aura enters, it gains shroud until your next turn. [i](It can't be the target of spells or abilities.)[/i]
+Spells enchanted player casts cost {1} less to cast.
+At the beginning of enchanted player's end step, that player draws a card.
+When this Aura leaves the battlefield, enchanted player sacrifices all nonland permanents they control.
+artist:  => Gukkhwa
+
+
+VERSION 1 CHANGELOG
 ====================
 
 First version published.
